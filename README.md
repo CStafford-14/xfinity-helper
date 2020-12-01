@@ -1,5 +1,5 @@
-# xfinity-helper
-Windows script for XFINITY users. Basic necesity if you have XFINITY.
+# This project has been terminated.
+No new progress will be made, but this repository will remain open for anyone who wants to use this code.
 
 # How to use
 Run this in Command Prompt (cmd.exe) with administrator priveleges. You can right click this icon and then click "Run as Administrator"
